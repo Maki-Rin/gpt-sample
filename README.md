@@ -6,7 +6,7 @@
 # How to use
 
 1.  `git clone https://github.com/Maki-Rin/gpt-sample.git`
-2.  `pip install requirements.txt`
+2.  `pip install -r requirements.txt`
 3.  環境変数を設定する
     `export OPENAI_API_KEY="sk-XXX"`
 4.  `python main.py`
